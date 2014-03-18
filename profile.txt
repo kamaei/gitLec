@@ -3,3 +3,6 @@ name:kamei
 age:20
 height:168
 weight:100
+
+shcool:tut
+home:arakawa
